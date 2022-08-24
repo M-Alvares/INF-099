@@ -10,7 +10,6 @@ namespace INF099
             // Mais um comentário
             // C1 
             // C2
-            // C3
         }
     }
 }
