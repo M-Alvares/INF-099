@@ -11,6 +11,7 @@ namespace INF099
             // C1 
             // C2
             // C5
+            // C6
         }
     }
 }
